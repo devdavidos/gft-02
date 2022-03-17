@@ -1,12 +1,13 @@
-package com.gft.desafio.loja;
+package com.gft.desafio.oop;
 
 import com.gft.desafio.oop.Livro;
+import com.gft.desafio.oop.Loja;
 import com.gft.desafio.oop.VideoGame;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Test {
+public class TestLoja {
 
     public static void main(String[] args) {
 
